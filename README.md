@@ -31,8 +31,8 @@ export default ReactComponent
 [React Icons - Main Docs](https://react-icons.github.io/react-icons/)
 
 ```jsx
-import { FiUsers, FiUserPlus } from 'react-icons/fi';
-<FiUsers className='nameOfTheClass'> </FiUsers>;
+import { FiUsers, FiUserPlus } from "react-icons/fi";
+<FiUsers className="nameOfTheClass"> </FiUsers>;
 ```
 
 ## React Router Dom
@@ -72,6 +72,7 @@ version used - "react-router-dom": "^5.2.0",
 - Copy/Paste Domain, ClientID - can be public (or use .env)
 - Add Domain -
   for now http://localhost:3000 (DON'T COPY PASTE FROM URL BAR)
+  // http://127.0.0.1:3000
 
   - Allowed Callback URLs
   - Allowed Logout URLs
