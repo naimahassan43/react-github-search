@@ -10,7 +10,7 @@ ReactDOM.render(
   <React.StrictMode>
     <Auth0Provider
       domain="dev-2jc397b2.eu.auth0.com"
-      clientId="process.env.REACT_APP_CLIENT_ID"
+      clientId="AYDdAdOhCL0faIzrDm6miw3rxkkU9YF4"
       redirectUri={window.location.origin}
     >
       <GithubProvider>
