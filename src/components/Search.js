@@ -14,9 +14,8 @@ const Search = () => {
 
     if (user) {
       searchGithubUser(user);
-      setUser("");
+      // setUser("");
     }
-    console.log(user);
   };
   return (
     <section className="section">
